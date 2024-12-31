@@ -1,4 +1,3 @@
-# README.md
 # Simplificadora Electromechanical
 #### Video Demo: <https://youtube.com/shorts/07_gZiFpNXE>
 #### Description:
